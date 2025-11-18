@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://your-banner-url-here.png" width="100%" alt="Banner"/>
-</p>
 
 <h1 align="center">Hi, I'm Septiani Dwi Rahma Putri 👋</h1>
 <p align="center">💻 Junior Web Developer</p>
@@ -41,7 +38,7 @@ I enjoy turning ideas into meaningful digital experiences and continuously impro
 
 ### **Database & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,git,github,gitlab,d'beaver,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,git,github,gitlab,vscode" />
 </p>
 
 ---
@@ -66,9 +63,19 @@ An online internship admission system built using **React.js** (frontend) and **
 Published in a SINTA 4 Journal, this research presents a **web-based mental health expert system** designed for final-year university students using **Forward Chaining** and **Backward Chaining** inference methods.  
 The system was developed using **React.js** and **Prisma**, providing automated reasoning to help identify early psychological conditions.
 
+
+🔗 **Live Website:** https://mental-health-septi.vercel.app/
 🔗 **Publication Link:** https://ejournal.itn.ac.id/jati/article/view/9849
 
----
+
+### 🔹 Company Profile Website for a Logistics Company
+This logistics company profile website was built as my final project for the Hacktiv8 bootcamp using HTML, CSS, and JavaScript.  
+It showcases company services and information, and includes a simple **to-do list feature** as part of the project’s functionality.
+
+
+🔗 **Live Website:** https://jaslo-company-website.netlify.app/
+
+
 
 ## 🌐 Personal Website
 👉 [Visit my portfolio](https://bit.ly/septianidrp)
