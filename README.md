@@ -56,7 +56,7 @@ I enjoy turning ideas into meaningful digital experiences and continuously impro
 ### 🔹 PKL Web Admission System – Angkasa Pura I  
 An online internship admission system built using **React.js** (frontend) and **Golang** (backend).  
 
-🔗 **Live Website:** https://pklangkasapura1.vercel.app/
+🔗 [Live Website](https://pklangkasapura1.vercel.app/)
 
 
 ### 🔹 Mental Health Expert System for Final-Year Students  
@@ -64,8 +64,8 @@ Published in a SINTA 4 Journal, this research presents a **web-based mental heal
 The system was developed using **React.js** and **Prisma**, providing automated reasoning to help identify early psychological conditions.
 
 
-🔗 **Live Website:** https://mental-health-septi.vercel.app/
-🔗 **Publication Link:** https://ejournal.itn.ac.id/jati/article/view/9849
+🔗 [Live Website](https://mental-health-septi.vercel.app/)
+🔗 [Publication Link](https://ejournal.itn.ac.id/jati/article/view/9849)
 
 
 ### 🔹 Company Profile Website for a Logistics Company
@@ -73,7 +73,7 @@ This logistics company profile website was built as my final project for the Hac
 It showcases company services and information, and includes a simple **to-do list feature** as part of the project’s functionality.
 
 
-🔗 **Live Website:** https://jaslo-company-website.netlify.app/
+🔗 [Live Website](https://jaslo-company-website.netlify.app/)
 
 
 
