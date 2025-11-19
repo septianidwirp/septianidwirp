@@ -20,35 +20,8 @@ I enjoy turning ideas into meaningful digital experiences and continuously impro
 - 🌟 **Software Engineer Intern — PT Surya Citra Media**
 - 🛫 **Fullstack Web Developer Intern — PT Angkasa Pura I (Juanda Airport)**  
 - 🚀 **Published Research — SINTA 4 Journal**  
-  Developed an AI-driven **web-based mental health expert system** using **Forward Chaining** and **Backward Chaining** inference methods.  
-
----
-
-## 🛠 Tech Stack
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=CI3,php,laravel,python" />
-</p>
-
-### **Database & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,git,github,gitlab,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=septianidwirp&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septianidwirp&layout=compact&theme=tokyonight" height="180" />
-</p>
-
+  Developed an AI-driven **web-based mental health expert system** using **Forward Chaining** and **Backward Chaining** inference methods.
+  
 ---
 
 ## 🚀 Featured Projects
